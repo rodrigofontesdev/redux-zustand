@@ -1,7 +1,7 @@
 import { ChevronDown } from "lucide-react"
 import { Lesson } from "./Lesson"
 import * as Collapsable from "@radix-ui/react-collapsible"
-import { useStore } from "../zustand-store"
+import { useStore } from "../store"
 
 type ModuleProps = {
   moduleIndex: number
