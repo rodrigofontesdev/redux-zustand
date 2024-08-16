@@ -23,6 +23,7 @@ const dummyState: PlayerState = {
       },
     ],
   },
+  isLoading: false,
   currentModuleIndex: 0,
   currentLessonIndex: 0,
 }
