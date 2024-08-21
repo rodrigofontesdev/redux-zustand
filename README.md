@@ -1,3 +1,5 @@
+![cover](https://github.com/user-attachments/assets/b05234b4-784f-4266-9ea7-838af0bac9c0)
+
 # Redux VS Zustand
 
 > [!IMPORTANT]
