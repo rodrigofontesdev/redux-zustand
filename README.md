@@ -5,18 +5,19 @@
 
 # Prerequisites
 
-> [!IMPORTANT]
-> TODO
+- Node.js
+- Git
 
 # Getting Started
 
-> [!IMPORTANT]
-> TODO
+- Clone the repository (`git clone git@github.com:rodrigofontesdev/rezux.git`)
+- Install dependencies (`npm install`)
+- Run application (`npm run dev`)
+- Run server (`npm run server`)
 
 # Features
 
-> [!IMPORTANT]
-> TODO
+- Auto-play next video
 
 # I've Learned
 
@@ -25,10 +26,12 @@
 
 # Built With
 
-> [!IMPORTANT]
-> TODO
+- React.js
+- TypeScript
+- Tailwind CSS
+- JSON Server
+- Zustand
 
 # License
 
-> [!IMPORTANT]
-> TODO
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
