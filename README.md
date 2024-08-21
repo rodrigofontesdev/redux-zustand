@@ -4,7 +4,7 @@
 
 This project was initially built with Redux for state management. The goal was to understand the fundamentals of this popular library and the Flux architecture.
 
-Subsequently, the goal was to migrate from Redux to Zustand due to its more concise syntax and lower learning curve.
+Subsequently, the goal was to migrate from Redux to Zustand due to its more concise syntax, lower learning curve and often better performance.
 
 # Prerequisites
 
@@ -20,7 +20,16 @@ Subsequently, the goal was to migrate from Redux to Zustand due to its more conc
 
 # I've Learned
 
-- 
+- Differences among local, global, and server state
+- How Flux architecture works
+- Debug application's state changes with Redux DevTools
+- Create store on Redux (`createStore`)
+- Create slices on Redux (`createSlice`)
+- Dispatch actions on Redux (`useDispatch`)
+- Read state on Redux (`useSelector`)
+- Create custom hooks on Redux
+- Fetch data on Redux with Async Thunks
+- Migrate a store from Redux to Zustand
 
 # Test
 
